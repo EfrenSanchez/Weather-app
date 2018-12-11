@@ -10,6 +10,7 @@
 - NPM or Yarn
 - Basic knowledge in ES6 (JavaScript)
 - API documentation from https://api.openweathermap.org/
+- Check it out http://niceweather.surge.sh/
 
 
 
